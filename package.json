@@ -1,0 +1,15 @@
+{
+  "name": "api_nodejs_express",
+  "version": "1.0.0",
+  "description": "Tutorial belajar node js, express js javascript framework untuk pembuatan sebuah rest api backend bagi pemula.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
